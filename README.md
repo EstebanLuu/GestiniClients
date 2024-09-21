@@ -621,7 +621,7 @@ export default config;
     @apply border-border !scroll-smooth;
   }
   body {
-    @apply bg-background text-foreground;
+    @apply bg-background;
   }
   button {
     @apply active:outline-none;
