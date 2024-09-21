@@ -52,7 +52,7 @@ const config = {
           foreground: "hsl(var(--primary-foreground))",
         },
         secondary: {
-          DEFAULT: "hsl(var(--secondary))",
+          DEFAULT: "red",
           foreground: "hsl(var(--secondary-foreground))",
         },
         destructive: {
